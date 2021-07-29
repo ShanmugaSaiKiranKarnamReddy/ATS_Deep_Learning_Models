@@ -1,0 +1,28 @@
+version: '3.5'
+services:
+  web_dev:
+    build: .
+    ports:
+     - "4000:4000"
+    volumes:
+     - .:/usr/src/app
+    environment:
+     - ENV=development
+     - PORT=4000
+     - DB=mongodb://mongodb:27017/test
+     - SECRET='to-do-app-secret'
+  mongodb:
+    image: mongo:4.0
+    container_name: "mongodb2.0"
+    environment:
+      - MONGO_DATA_DIR=/usr/data/db
+      - MONGO_LOG_DIR=/dev/null
+    volumes:
+      # - ./init-mongo.js:/docker-entrypoint-initdb.d/init-mongo-js:ro #means you want to copy init-mongo.js
+      - ./data/db:/usr/data/db #means you want to set data on container persist on your local folder named data/db
+    ports:
+        - 27017:27017
+    command: mongod --smallfiles --logpath=/dev/null # --quiet
+networks: 
+  default:
+    name: web_dev

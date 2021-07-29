@@ -1,0 +1,1 @@
+from .word_2_vec import final_result_bi_lstm

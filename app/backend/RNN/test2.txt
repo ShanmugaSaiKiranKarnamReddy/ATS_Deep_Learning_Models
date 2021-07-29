@@ -1,0 +1,157 @@
+pair_ID	resume	jd	score
+1	"Knowledge of analyzing, troubleshooting, and providing solutions to technical issues"	"Experience analyzing, troubleshooting, and providing solutions to technical issues"	four
+2	three+ years of experience in IT support	two+ years’ hands-on IT Support experience in a production environment	four
+3	three+ years of experience on windows administration	two+ years' experience supporting Microsoft Windows 7 or Windows one0	three
+4	"Previous experience on PC repair, troubleshooting,"	"Proven skills in PC repair, troubleshooting, deployment, and liquidation"	three
+5	application support for windows systems	Experience supporting one or more of: Mac OS X or Linux	three
+6	"Knowledge on networking protocols like TCP/IP , DNS"	"Understanding of networking concepts such as DNS, DHCP, Email, HTTP, SSL, OSI Model, and TCP/IP protocols and applications."	three
+7	one+ years of experience with support methodologies	one+ years of experience with support procedures and methodologies	three
+8	one+ years of experience with x86/x6four hardware platforms	one+ years of experience with x86/x6four hardware platforms and components (e.g. five0+ servers)	five
+9	one+ year of experience with large database driven websites	one+ year of experience with large database driven websites and web technologies	four
+10	Certified in RHCA/RHCE	RHCSA/RHCE or equivalent certification	five
+11	Good hardware trouble shooting skills	Excellent hardware troubleshooting skills	four
+12	Worked on Go/No-Go in production systems	Experience writing Go in production systems	three
+13	Experience inComputer Science engineering	Experience in growth engineering or similar product-oriented discipline	two
+14	Experience with interaction of support team	"nteract with PM, QA and support team throughout the product life-cycle"	three
+15	"Worked on multi-threading, parallel processing in JAVA"	"Understanding of OOD, Design patterns, Java internals, multi-threading, parallel processing"	five
+16	"Worked on NoSQL, REST services"	"Experience with in one or more of the following technologies: NoSQL, SOA, REST"	four
+17	Good experience in micro-services	Experience with micro-service approach	four
+18	8+ years of experience in server-side development	At least 8 years’ experience in Java server-side development	three
+19	five+ years building and leading consulting businesses	five+ years in a global hi-tech professional services organization – building and leading consulting businesses	two
+20	"Good experience AWS cloud computing infrastructure (ECtwo, AWS Services etc.)"	"Experience in AWS cloud computing infrastructure (ECtwo, AWS Services etc.)"	five
+21	Experience as a Tech lead / Architect / Hands On team leader	Experience as a Tech lead / Architect / Hands On team leader	five
+22	five+ years of experience in leadning a mutli sized project	"five+ years’ experience leading complex large-scale or multiple mid-sized multi-project programs, including identifying partners and sub-project owners"	four
+23	five+ years applying enterprise scaled Agile/Scrum including as a Scrum Master or Scrum coach	five+ years applying enterprise scaled Agile/Scrum including as a Scrum Master or Scrum coach	five
+24	Worked on several business cases and analytical assessments	"Experience defining project scope, timeline, cost and risk, including building business cases and other analytical assessments"	three
+25	Good customer relationship management	Customer relationship management experience and collaboration skills	three
+26	"three+ years of DevOps, Site Reliability Engineering (SRE), Network Engineering"	"three+ years of DevOps, Site Reliability Engineering (SRE), Network Engineering, or enterprise production experience in similar environments"	two
+27	"Expertise with with Golang ecosystem, Kubernetes operator framework"	"Experience with Golang ecosystem, Kubernetes operator framework and/or client-go"	four
+28	Certified Kubernetes Developer (CKAD) certification	Certified Kubernetes Developer (CKAD) certification	five
+29	"Worked on Java, C++, or C# including object-oriented design."	"Programming experience with at least one modern language such as Golang, Java, C++, or C# including object-oriented design."	three
+30	one+ years of experience contributing to the architecture and design	"one+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems"	two
+31	two+ years of software development experience	two+ years of non-internship professional software development experience	two
+32	Experienced in digital advertising & data analysis	6+ years of experience in digital advertising and client facing roles with a focus on data analysis	three
+33	Implemented machine leanring models for recommendation	Experience using data to make recommendations to clients or customers and or internal partners	three
+34	Good experience on google analytics	Experience with digital advertising solutions such as Google Analytics	three
+35	Good experience with MS office	"MS Office skills: Microsoft Excel, Word, and PowerPoint"	four
+36	Worked with global cleints like Windsor	Must have managed global clients along with owning up their individual performance goals	three
+37	Certified on training assesment tools	"A certification, qualification, or experience in Training assessment tools."	three
+38	Worked in e-commerce digital marketing	Experience in e-commerce or digital marketing	four
+39	"Expertise on Machine Learning models , AI,"	"five years relevant experience, in a highly quantitative field (Machine Learning, AI, Computer Science, Statistics, Mathematics, Operational Research"	two
+40	"Well Versed with R, Weka, SAS, SPSS, Matlab or other statistical/machine learning software"	"Experience with R, Weka, SAS, SPSS, Matlab or other statistical/machine learning software"	three
+41	Worked on data manipulation/analysis libraries such as Scikit-learn and Pandas for analyzing and modeling data	Proficient with using scripting language such as Python and data manipulation/analysis libraries such as Scikit-learn and Pandas for analyzing and modeling data	four
+42	"Experienced in using multiple data science methodologies to solve complex business problems (e.g. statistical analysis, research science, machine learning and deep learning techniques"	"Experienced in using multiple data science methodologies to solve complex business problems (e.g. statistical analysis, research science, machine learning and deep learning techniques, data modeling, regression modeling, financial analysis, demand modeling, etc.)."	four
+43	"Experienced in handling terabyte-sized data sets, diving into data to discover hidden patterns"	"Experienced in handling terabyte-sized data sets, diving into data to discover hidden patterns, using data visualization tools, using SQL and databases in a business environment."	three
+44	"Knowledge on AWS platforms such as Sthree, Glue, Athena, Sagemaker"	"Functional knowledge of AWS platforms such as Sthree, Glue, Athena, Sagemaker"	four
+45	Good understanding of rigorous mathematical concepts	Ability to convey rigorous mathematical concepts and considerations to non-experts	three
+46	Implemented novel approaches in ML models	"Research and implement novel ML and DL approaches, including using FPGA."	two
+47	"Assist with maintaining current build systems, developed build scripts, and maintained source control in GIT and SVN Responsible for CI environments (Jenkins, Nexus, Sonar)."	Implement Gitlab Runner (Candidate should be aware of different types of runner & how does work in CI/CD)	five
+48	Having a knowledge on Administering Continuous Integration (CI).	Implement Gitlab Runner (Candidate should be aware of different types of runner & how does work in CI/CD)	five
+49	Hands on experience in installing and administrating CI tools like Hudson/Jenkins &Subversion.	Implement Gitlab Runner (Candidate should be aware of different types of runner & how does work in CI/CD)	five
+50	"Environment: Chef, Ansible, GIT, Subversion (SVN), Openshift enterprise OSE, Jenkins, Java/JtwoEE, MAVEN, Nexus, Adobe experience manager(AEM), Shell Scripts, Bash scripts, Linux (RHEL), Apache web servers."	Should have Linux Infrastructure Background	four
+51	"Environment: Chef, Ansible, GIT, Subversion (SVN), Openshift enterprise OSE, Jenkins, Java/JtwoEE, MAVEN, Nexus, Adobe experience manager(AEM), Shell Scripts, Bash scripts, Linux (RHEL), Apache web servers."	Shell Scripting & YAML – Strong Clarity	four
+52	"Environment: Chef, Ansible, GIT, Subversion (SVN), Openshift enterprise OSE, Jenkins, Java/JtwoEE, MAVEN, Nexus, Adobe experience manager(AEM), Shell Scripts, Bash scripts, Linux (RHEL), Apache web servers."	"A good understanding on Linux environments, commands & shell scripting (must have requirement)"	four
+53	"Assist with maintaining current build systems, developed build scripts, and maintained source control in GIT and SVN Responsible for CI environments (Jenkins, Nexus, Sonar)."	Hands-on experience on GITLAB CI/CD implementation in devops	five
+54	"Responsible for Development, QA, SYSTEM, UAT, STAGING, BREAKFIX, PRODUCTION Builds and deployment environment setup"	Good understanding on Devops concepts & best practice with real hands-on in any production system	five
+55	"Architect, Quality control"	Good to have infrastructure provisioning experience for a large-scale system	three
+56	"IT Automation Tool: CFEnginethree (SME), SaltStack, Jenkins MV & LV Power Systems, HVAC, Fibre Optic, Allen Bradley PLC, MATLAB for Control Systems, Digital Electronics, Circuit Design, Logic Design, Processor Architecture"	"Technical Experience : : Deployment, automation, management, and maintenance of AWS cloud-based system Ensuring availability, performance, security, and scalability of AWS systems Definition and deployment of systems for metrics, logging, and monitoring on AWS platform"	five
+57	AWS product knowledge.	"Technical Experience : : Deployment, automation, management, and maintenance of AWS cloud-based system Ensuring availability, performance, security, and scalability of AWS systems Definition and deployment of systems for metrics, logging, and monitoring on AWS platform"	four
+58	Develop automation framework for public cloud infrastructure deployments.	"Deployment, automation, management, and maintenance of AWS cloud-based system Ensuring availability, performance, security, and scalability of AWS systems Definition and deployment of systems for metrics, logging, and monitoring on AWS platform"	five
+59	Develop automation framework for public cloud infrastructure deployments.	Strong experience setting up and deploying CI/CD pipelines	five
+60	Develop automation framework for public cloud infrastructure deployments.	"Strong experience with CI/CD tools like Ansible, Jenkins, TeamCity, Octopus or VSTS"	five
+61	"Perform code reviews, evaluate implementations, and provide feedback for tool improvements."	Code Quality measurement tools like SonarQube	four
+62	"C, C++, Perlscripting, Batch scripting, VB script, PowerShellscripting, SQL,Java/JtwoEE,SoapUI, Ruby Python, Bash,"	Knowledge in any Scripting Languages	five
+63	"Languages: Python, Shell Scripting (Bash & Korn), Perl, HTML"	Knowledge in any Scripting Languages	five
+64	"Customer Service Representative / Sallie Mae - Newark, DE / one0.two0onefour - 0three.two0one8"	Ready for twofourx7 support / on-call support	four
+65	"Operating Systems: UNIX/LINUX, Windows"	"Hands-On experience on Windows server, Linux servers and Web server related tasks."	four
+66	Experience working with Docker container.	Hands-On experience on Containerization (Dockers /Kubernates).	four
+67	"6yearsofexperienceasaBuildand Release DevOpsEngineeringin automating, building, deploying, and releasingofcodefromoneenvironment to otherenvironment."	Work Experience: five to 8 Years	five
+68	Bachelor of Engineering from Geethanjali College of Engineering and Technology passout in two0one6 with 68.08%	Any Graduate (Engineering Graduate preferred with CS / IT background)	four
+69	"DevOps Engineer, 07/two0onefive ? Current"	five + years of experience in Devops Role	five
+70	"DevOps Engineer, 0five/two0one6 to 0five/two0one8"		four
+71	"Conduct systems design, feasibility and cost studies and recommend cost-effective cloud solutions such as Amazon Web Services (AWS)."	"Handson Experience with AWS and DevOps workflows, Could Infra setup"	five
+72	"Took ownership of the app, used Jira tool for requirement gathering, GitHub and Git Lab as version control systems."	"Experience of using enterprise grade requirements management solutions such as Jira, HP ALM"	five
+73	"Oracle,SQL SERVER, MYSQL, DBtwo"	Database management and troubleshooting skills	five
+74	Created API documentations	Experience in Selenium or Cypress or Swagger or Postman	five
+75	"Working experience with DevOps practices in application technology including continuous integration and delivery processes using Jenkins, Bamboo, CruiseControl, Ansible, Chef or Puppet."	CT(Continous Testing) -> Experience in Selenium or Cypress or Swagger or Postman	five
+76	Enforced Agile and Scrum development methodologies on interface projects to shorten development times.	Experience in Agile Methodology	five
+77	"Familiar with AWS services like ECtwo, ELB, Sthree, VPC, EBS, IAM etc Using knife and test kitchen to test cookbooks locally before deploying to AWS environments."	"Analysing, executing, and streamlining DevOps practices. Capture and share best-practice knowledge amongst the AWS solutions architect/developers. Architecting overall, comprehensive, and efficient practices."	five
+78	Added hooks in the project and moved some class-based components to functional components	Setting up a continuous build environment to speed up software development and deployment process	five
+79	Bachelor of Technology: Civil EngineeringJNT University	"Bachelor's Degree in Computer Science or in ""STEM"" Majors (Science, Technology, Engineering and Math) with strong professional experience of one0+ years in DevOps Environment and hands on experience designing Scalable AWS solutions. Up to date on Agile & DevOps knowledge of its benefits and actual experience implementing as a champion."	three
+80	Worked on RDS (Oracle) installation and management in AWS platform.	"Broad experience of additional AWS Product sets such as EMR, Redshift, SQS, SNS, AWS IoT, API Gateway etc. products and their design/usage. Deep knowledge of the primary AWS services (ECtwo, ELB, RDS, Routefivethree, Sthree & AWS-IoT)"	four
+81	"Familiar with AWS services like ECtwo, ELB, Sthree, VPC, EBS, IAM etc Using knife and test kitchen to test cookbooks locally before deploying to AWS environments."	Strong track record of architecting custom solutions utilizing AWS services	five
+82	"0five/onetwo/two0onethreeUniversity of Illinois ? Chicago Chicago, IL 
+Master of ScienceElectrical and Computer Engineering 
+GPA: GPA: four.00/four.00 
+Electrical and Computer Engineering GPA: four.00/four.00"	A degree in Computer Science or at least one years relevant experience in a large-scale online technical operations environment	five
+83	Excellent communication skills in written and verbal both.	Excellent written and verbal communication skills to facilitate efficient and effective interaction with peers and customers	five
+84	Ability to work as individual as well as in group and Self -Motivated with Positive Attitude Academia	Effective organisational skills to maintain a consistently high standard of operations in a busy environment	five
+85	Full stack development of the internal product system using Laravel.	Strong knowledge of the computer science fundamentals and good understanding of multi tiered software systems	three
+86	Provide helpdesk support to end-users of proprietary software.	"Provide critical technical support, incident response and incident management to seller experience internal customers to include monitoring and management of communications during high impact events (via conference calls utilizing an established Event Management process) and close collaboration with level-two and level-three resolvers"	four
+87	"Master of Science: Electrical Engineering, two009"	MS or BS in Computer Science or equivalent	two
+88	"DevOps Engineer, 07/two0one6 to Current"	two years of experience as DevOps engineer working on automating infrastructure tasks.	five
+89	"DevOps Engineer, 0five/two0one6 to 0five/two0one8"	two years of experience as DevOps engineer working on automating infrastructure tasks.	five
+90	Apache Tomcat and Apache HTTP Server specialist Knowledge of BMC RLM.	Experience with developing microservice-based HTTP applications and servers	four
+91	"C, C++, Perlscripting, Batch scripting, VB script, PowerShellscripting, SQL,Java/JtwoEE,SoapUI, Ruby Python, Bash,"	"Unix shell scripting, Python, and Perl are required"	four
+92	"Abilityin developmentandexecution ofXML, Ruby, ShellScriptsandPerlScripts, Powershell, Batch scriptsand Bash also."		four
+93	"ASP.NET one.one/two.0/three.five/four.0, ADO.NET, LINQ, C#.NET, WCF,"	Design software systems with various Microsoft technologies and ensure compliance to all architecture requirements.	five
+94	Experience in Azure services.	"Have idea about DevOps, and can help in setting up CI/CD pipelines , automatic deployment etc"	five
+95	"Architect, Quality control"	Review infrastructure for any issues and recommend solutions.	four
+96	Responsibilities: Working on development & enhancement of different solutions of Intelligrants software to accommodate the requirements of different states by utilizing skills in .net and SQL Server.	Monitor application architecture and ensure appropriate implementation of all solutions	five
+97	"Deployed a web app, database and managing the resources, performance issues online using new Azure portal Experienced in developing Win Forms using C#, web-based applications using ASP.NET."	Job Title: .Net Developer with Angular	five
+98	"net Developer0one/two0onethree to Current
+Agate Software Inc"	.NET Developer with 7+ years of experience.	five
+99	"More than 9 years of professional software development experience in design, development, deployment and integration of Enterprise software systems in telecom, finance, Business Intelligence product development."	"Design, code, deploy, and test applications according to the requirements and industry best practices"	five
+100	"More than 9 years of professional software development experience in design, development, deployment and integration of Enterprise software systems in telecom, finance, Business Intelligence product development."	"Assist in development and peer review of plans, technical solutions, and related documentation"	five
+101	"
+Used Visual source safe to maintain version control and history during development."	Use version control to version your code	five
+102	Develop tools and processes to improve customer relation/ interaction with systems.	Support the Technical Solution and Product Integration CMMI processes within the project as assigned	four
+103	Computer Science GPA: three.five8	"Bachelor Degree in Engineering, Math or Science"	five
+104	"net Developer0one/two0onethree to Current 
+Agate Software Inc"	Minimum of five or more years of experience in technical development activities according to requirements and industry best practices	four
+105	"
+Used Visual source safe to maintain version control and history during development."	"Experience with tool sets such as Visual studio, Oracle Client to perform the development activities for the web applications"	five
+106	Review and release test results.	Engage and implement all design and code review practices to ensure high quality of solution is delivered	five
+107	"Established coding guidelines and standards for object oriented and component-based development with maintainability, reusability, and performance in mind."	"Strong analytical, problem solving, and information comprehension and fast learning skills"	five
+108	"Design of public web-service solution, writing design documentation."	"Organized, energetic & passionate team player"	five
+109	Used Visual source safe to maintain version control and history during development.	"Experience with DevSecOps tool sets such as git, Jenkins, Ansible etc"	five
+110	"Expertise on the Analysis, Design, Development and Support of Client/Server application using Microsoft SQL Server two0one6, two0onefour, two0onetwo, two008 Rtwo, two008, two00five."	Experience using development and architecture tools such as Visio etc	four
+111	"Took ownership of the app, used Jira tool for requirement gathering, GitHub and Git Lab as version control systems. 
+"	Experience using requirements and change management tools such as JIRA etc	five
+112	Sound understanding and experience in Agile Development process for diverse requirements	"CMMI, Agile knowledge/familiarity"	five
+113	Developed and maintained code using Vb.net and Java	Object-oriented development experience is required	five
+114	"Established coding guidelines and standards for object oriented and component-based development with maintainability, reusability, and performance in mind"		five
+115	"Environment: C#, ASP.Netfour.five, SQL Server two0onetwo, AJAX, HTML five/CSS, Java Script, J-Query, JSON, T-SQL, Visual Studio two0onetwo, .Net Framework, ADO.Net, N-Unit, LINQ, MVC five, WPF,XML, WCF, TFS, SSIS, SSRS ,REST API Olympia university of business and technology,olympia WA,USA [August two0one7-Till Date] Role : .NET DEVELOPER Designed user interface screens and implemented application logic under the Microsoft .NET framework using C# to use .NET features powered with CLR."	three+ years of experience developing Windows solutions using Microsoft technologies is required\	five
+116	"React Developer | ClearCtwo Inc - Coppell, TXonetwo/two0one7 - Current"	three+ Experience with React and Redux	five
+117	"CSSthree, Sass"	"Experience with Sass, Less and/or CSS Modules"	five
+118	Used PHP programming language along with MYSQL as database to develop RESTFUL services	Ability to build and improve a REST/JSON API client	five
+119	"Worked with advance web development technologies like React, Node, Express, MongoDB, MySQL, ECMAScript 6, Typescript, JavaScript, Immutable, Python, Bootstrap four, CSS, HTML, JavaScript Object Notation."	"Experience with type checking solutions (e.g. Flow, TypeScript)"	five
+120	"Worked with advance web development technologies like React, Node, Express, MongoDB, MySQL, ECMAScript 6, Typescript, JavaScript, Immutable, Python, Bootstrap four, CSS, HTML, JavaScript Object Notation."	"Desired Skills and Experience 
+Node JS"	five
+121	Maximized use of Events and promises in ES6 and React for application control flow.	"Should be a pro in Javascript with ES6 Standards. 
+"	five
+122	Developed Drag-gable and Re-sizable modals using React-DND and React-RND.	"Should have knowledge on NPM , webpack and other js build tools."	five
+123	Enforced Agile and Scrum development methodologies on interface projects to shorten development times.	Should be well versed with the agile development processes.	five
+124	"Developed sound knowledge on React, Redux for front end. MySQL for backend and Express as server."	Strong development exp using React & Java'	four
+125	"Worked with advance web development technologies like React, Node, Express, MongoDB, MySQL, ECMAScript 6, Typescript, JavaScript, Immutable, Python, Bootstrap four, CSS, HTML, JavaScript Object Notation."	"Strong experience in JavaScript, ideally ES6 or ES7, building Single Page Web Applications with modern frameworks (React, Angular, Vue)."	five
+126	Validated customer interface requirements and assessed impact of needs on available systems.	"four+ years of experience with customer facing web experiences. 
+"	five
+127	"Updated versions of React, React-Router."	Experience in building single page applications using React or other similar modern JavaScript libraries utilized for rendering user libraries.	five
+128	Introduced Ag-Grid package which can plot millions of table rows at ease using JavaScript.		five
+129	"Worked with advance web development technologies like React, Node, Express, MongoDB, MySQL, ECMAScript 6, Typescript, JavaScript, Immutable, Python, Bootstrap four, CSS, HTML, JavaScript Object Notation."	Familiarity with ES6 and newer versions of JavaScript.	five
+130	Mastered Data Structures and Algorithms to calculate time and space complexities.	"A constant desire to grow, learn, and explore new things."	five
+131	Added hooks in the project and moved some class-based components to functional components	Build reusable modules for both client and server-side usage	four
+132	Added hooks in the project and moved some class-based components to functional components	"Demonstrated passion for building comprehensive, intelligent and elegant solutions"	four
+133	"React Developer | ClearCtwo Inc - Coppell, TXonetwo/two0one7 - Current"	"three to 8 years of relevant work experience in TypeScript (or ES6), React (or similar), MobX and CSS"	five
+134	"University of Illinois At Springfield - Springfield, IL0five/two0one7 
+Master of Science: Computer Science"	BS/MS in Computer Science or similar	five
+135	"Used File-Saver for BLOB downloads, React-Chart, Re charts for plotting charts."	Construct visualizations that are able to depict vast amounts of data	five
+136	"Developed quality Web Design mockups using UX principles so that the end products look beautiful, widely accessible and easily understandable for both web developers and customers"	Work with product team and graphic designers	five
+137	Used GIMP open source alternative to photoshop to develop mockups for UI.	Learn and understand user interactions	five
+138	"Developed a web app for show casing how this two-way audio works using HTML, CSS and React JS. 
+Tested REST endpoints using POSTMAN."	"Develop a flexible and well-structured front-end architecture, along with the APIs to support it"	five
+139	Tested REST endpoints using POSTMAN.	Experience with REST API's	five
+140	GitHub and Git Lab as version control systems.	Git knowledge is a plus	five
+141	"University of Illinois At Springfield - Springfield, IL0five/two0one7 
+Master of Science: Computer Science"	Bachelor’s degree in any STEM program (or equivalent experience)	five
+142	Enforced Agile and Scrum development methodologies on interface projects to shorten development times.	Participate in agile development	five

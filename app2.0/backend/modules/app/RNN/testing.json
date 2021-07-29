@@ -1,0 +1,25 @@
+{
+  "rnn": [
+      {
+          "filename": "thorsten_lockert_name_Resume_html.pdf",
+          "result": 2.1010921296550378
+      },
+      {
+          "filename": "tomrichards_name_.pdf",
+          "result": 1.4953487812212205
+      },
+      {
+          "filename": "vicky_resume_work_student.pdf",
+          "result": 1.0
+      },
+      {
+          "filename": "steve_svpocketpc_com_resume_html.pdf",
+          "result": 4.999999999999999
+      },
+      {
+          "filename": "stefan-koch_name_en_resume_.pdf",
+          "result": 1.0
+      }
+  ],
+  "ok": true
+}

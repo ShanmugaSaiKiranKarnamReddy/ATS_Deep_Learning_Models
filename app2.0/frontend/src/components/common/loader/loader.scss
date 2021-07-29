@@ -1,0 +1,18 @@
+@import '../../../stylesheets/global'; 
+
+
+.loading-container {
+  padding-top: 20vh; //Do not change!
+  text-align: center;
+  width: 100%;
+  
+  .loading-image{
+    width: 100px;
+  }
+
+  .loading-text {
+    color:black;
+  }
+
+}
+

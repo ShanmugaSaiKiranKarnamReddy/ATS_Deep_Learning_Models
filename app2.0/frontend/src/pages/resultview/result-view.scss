@@ -1,0 +1,23 @@
+@import '../../stylesheets/global'; 
+
+.result-view-container{
+  margin: 24px;
+  padding: 12px;
+
+  .model-selection{
+    float: right;
+    margin-right: 12px;
+  }
+  .table-container{
+    // height: 100vh;
+
+    .result-table{
+      .result-table-header{
+        .MuiTableCell-root{
+          color: $standard-orange;
+        }
+      }
+    }
+  }
+  
+}

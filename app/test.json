@@ -1,0 +1,20 @@
+{
+  "Technology Skills": [
+      {
+          "O*NET-SOC Code": "11-1011.00",
+          "Title": "Chief Executives",
+          "Example": "Adobe Systems Adobe Acrobat",
+          "Commodity Code": "43232202",
+          "Commodity Title": "Document management software",
+          "Hot Technology": "Y"
+      },
+      {
+          "O*NET-SOC Code": "11-1011.00",
+          "Title": "Chief Executives",
+          "Example": "AdSense Tracker",
+          "Commodity Code": "43232306",
+          "Commodity Title": "Data base user interface and query software",
+          "Hot Technology": "N"
+      }
+    ]
+  }

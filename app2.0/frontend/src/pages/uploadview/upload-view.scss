@@ -1,0 +1,30 @@
+@import '../../stylesheets/global'; 
+
+
+.upload-view-container{
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  .bar-container{
+    margin-top: 35vh;
+    display: flex;
+    margin-left: 100px;
+    
+    .MuiFormControl-root {
+      width: 150px;
+      margin-left: 20px;
+      color: #fa8231;
+    }
+  }
+
+  .status-container{
+    margin-top: 20px;
+    .status{
+      //text-align: left;
+      .title{
+        font-weight: 600;
+      }
+    }
+  }
+}

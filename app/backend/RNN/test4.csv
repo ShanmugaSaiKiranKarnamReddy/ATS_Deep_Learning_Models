@@ -1,0 +1,1054 @@
+pair_ID$resume$jd$score
+1$"CV_Database_Engineer_1.pdf
+ 
+
+ 
+
+ 
+
+Contact
+
+www.linkedin.com/in/matej-macek-
+croatia (LinkedIn)
+
+Matej M.
+
+Team Lead Database Engineering | Wirecard Service Technologies
+GmbH
+Munich (County)
+
+Top Skills
+SQL
+Database Administration
+Networks
+
+Languages
+English
+Croatian
+German (Elementary)
+
+Certifications
+MCPS: Microsoft Certified
+Professional
+LFS101x.2: Introduction to Linux
+Red Hat Certified Specialist in
+Ansible Automation
+
+Honors-Awards
+Microsoft Virtual Academy Croatia
+1st place
+Cisco NetRiders 2015 Croatia 1st
+place
+Cisco NetRiders 2015 Europe,
+Russian  Federation and CIS TOP
+10
+LLPA Battle 2015 Croatia TOP 5
+Wirecard Innovation Challenge 2018
+
+Summary
+Experienced System Engineer (Windows, Linux) and Database
+Administrator/Engineer (Microsoft SQL, DataStax Enterprise
+Cassandra, MySQL, MariaDB, AWS RDS, OCI) with a demonstrated
+history of working in the financial services industry in enterprise level
+server environments. Strong information technology professional
+with a Professional master of computer engineering focused on
+System engineering from University College Algebra. A highly
+motivated and ambitious individual able to give timely and accurate
+advice, guidance, support, and training to team members and
+individuals. Possessing excellent technical and management skills
+and having the ability to work with the minimum of supervision whilst
+leading a team of nine or more. Having a proven ability to lead
+by example, consistently hit targets, improve best practices and
+organize time efficiently. 
+
+Certifications
+• Professional Scrum Master I
+• Oracle Cloud Infrastructure Foundations 2020 Certified Associate
+• Red Hat Certified Specialist in Ansible Automation
+• Red Hat Certified System Administrator
+• DataStax Certified Professional on Apache Cassandra
+• CCNA: Cyber Ops 
+• CCNP: Cisco Certified Network Professional Implementing Cisco IP
+Routing 
+• Cisco Networking Academy 2015 NetRiders 
+• CCNA: Cisco Certified Network Associate Routing and Switching
+• MCSA: Office 365 
+• ITIL Foundation 
+• Querying Microsoft SQL Server 2012 
+• MCPS: Microsoft Certified Professional 
+
+Experience
+
+Page 1 of 6
+
+ 
+
+ 
+
+ 
+
+Wirecard
+2 years 8 months
+Team Lead Database Engineering
+January 2019 - Present (1 year 8 months)
+Munich Area, Germany
+• Preparing daily workloads for staff and coordinating the daily allocation of
+work
+• Arranging and chairing weekly team meetings, focusing on targets and
+achievements
+• Running and maintaining a 24×7 production computing environment
+• Lead in analyzing, recommending, maintaining and documenting production
+automation, monitoring systems operation and database system standard,
+policy, and architecture with engagement in the data center migration
+• Automation and Designing a framework for deployment, customization,
+upgrades, and monitoring through CI/CD tools (Ansible, Terraform, GitLab,
+Control-M, Datadog)
+• Develop, maintain and enforce SLA to ensure service and infrastructure
+availability
+• Collaboration with engineering, quality engineering and product management
+to architect and build systems/features that are highly available, reliable and
+secure
+• Administration, deployment, planning, maintenance, upgrade, patching,
+optimization, performance tuning of MySQL, MariaDB, Microsoft SQL including
+SSRS, Power BI Report Server, SSIS, SSAS, Datastax Enterprise Cassandra
+including OpsCenter, AWS RDS, OCI
+• Implementing/maintaining database failover mechanism and perform disaster
+recovery exercises for mission-critical databases
+• Driving improvements in database performance via changes logical and
+physical data organization (partitioning), tuning and configuration
+• Developed automated and optimized process for archiving/purging data with
+respect to foreign keys for MySQL/MariaDB using Percona Toolkit
+• Developed automated and optimized process for archiving/purging data with
+respect to foreign keys for Microsoft SQL using T-SQL
+• Developing a database with metadata, automating data collection using
+scripts from all database systems centralizing collected data
+• Developed playbook with Ansible for BoostFS implementation and NFS
+replacement
+• Expertise in principles of structuring information and in the
+documentation, and business processes (Confluence, Jira, BMC Remedy)
+
+Page 2 of 6
+
+ 
+
+ 
+
+ 
+
+Database Engineer
+January 2018 - January 2019 (1 year 1 month)
+Munich Area, Germany
+• Participating and giving a contribution that the company becomes a leading
+international provider of outsourcing and white label solutions for electronic
+payment transactions
+• Support database instances according to defined policies and standards
+(CPA, ISAE, PCI DSS) including off-hours coverage
+• As an MS SQL Server and DataStax Enterprise (DSE) DBA/architect,
+managed enterprise environment with database servers, including MS SQL
+Server 2008 R2/2014/2016/2017, DSE 5/6, located on Windows Server 2012
+R2/2016, RHEL 6/7 physical and virtual servers
+• Automate deployment, configuration, patching, and maintenance of database
+systems and related products
+• Monitoring capacity, performance and system health of running database
+systems
+• Analyzing and proposing improvements for MS SQL Server and DSE
+• Database design and implementation (architecture, high availability, schema
+optimizations)
+• Planning and deployment of high-availability database environments (Always-
+On, Clustering, Mirroring, Replication)
+• Advanced database performance tuning and process optimization
+• Collaborate with software vendors and other technical staff to develop,
+design, implement and continuously improve the database system stack
+• Reorganizing, documenting, implementing and automating BMC Remedy
+workflow for service catalog following ITIL processes
+• Defining, documenting, and implementing:
+? Standardization of MS SQL Server and DSE installations
+? Patching process and standards for MS SQL Server and DSE
+? DR and HA standards for MS SQL Server and DSE
+? Server and database security with hardening standard, including access and
+service accounts standard for MS SQL Server and DSE
+? A backup and recovery strategy for MS SQL Server, DSE, MySQL and
+MariaDB with EMC NetWorker and DataDomain
+? Naming conventions for MS SQL Server, DSE, MySQL and MariaDB
+? Archive process from MySQL and MariaDB Galera Cluster to MariaDB
+
+Erste Card Club
+3 years 3 months
+Database Administrator and Systems EngineerPage 3 of 6
+
+October 2016 - January 2018 (1 year 4 months)
+Croatia, Zagreb
+• As MS SQL Server DBA, managed 4 MS SQL Server 2012 clusters and 32
+stand-alone instances,  including SQL Server 2005, 2008 (R2), 2014, and
+2016 
+• Creating a backup and restore strategy and procedure for MS SQL with the
+disaster recovery plan
+• Maintain and review security for MS SQL 
+• Monitoring, maintaining, and reporting of the capacity in SQL Server
+• Review, analyze and propose performance improvement in SQL Server with
+advanced database performance tuning
+• Configure and maintain high availability of data related to the SQL service
+• Troubleshooting, performance tuning and diagnosing in SQL Server
+• Installation, configuration, migration, and maintenance of SQL Server
+• Developing and creation of the automatic job for the archiving process of data
+from Oracle to Microsoft SQL Server
+• Development of technical documentation related to SQL Server and ECC
+system
+• As the system administrator, maintenance and administration of 50+
+Windows Server 2003, 2008, 2008 R2, 2012, 2012 R2 using Hyper-V
+• Migration Splunk environment from Windows to Linux; collecting data and
+reporting via Splunk
+• Administration, maintenance, configuration, migration and maintenance of
+SAN storage EMC and IBM
+• Maintaining and developing the Veritas NetBackup system that is used to
+switch the backup on magnetic tape
+• Administration and ensuring high data availability for the Microsoft Exchange
+(2008, 2013) system
+• Review, maintain and administer Cisco routers and Cisco network switches
+• Allow and deny network traffic for system users using Cisco ASA
+• Deploy .NET applications on various environments
+• Administration, migration and developing a new intranet on the Microsoft
+SharePoint 2013 platform
+• Checking, administration, configuration, preparing for virtualization and
+maintenance of servers in the system (mostly HP servers)
+• Creating PowerShell scripts to assist in monitoring the system
+• Preparing the environment to be compliant to the PCI DSS
+• Around-the-clock support
+
+Junior Database Administrator
+November 2014 - October 2016 (2 years)
+
+Page 4 of 6
+
+ 
+
+ 
+
+ 
+
+Croatia, Zagreb
+• Installation and upgrading database
+• Planning the necessary hardware resources and defining the configuration
+parameters of the operating system
+• Creation of guidelines, procedures, structures and objects in the database
+• Monitoring and optimization of system performance database
+• Planning and implementation of backup/restore/recovery data
+• Analysis of data in order to maintain data integrity and troubleshooting
+• Managing correlation between the database and applications, control user
+access based
+
+Cisco
+Cisco Engineer Incubator Program
+November 2016 - April 2017 (6 months)
+Poland, Krakow and Croatia, Zagreb
+A member of an international student group selected to be educated and
+trained at Cisco where we are provided with CCNP course, as well as
+webinars and seminars in fields:
+
+- R&S
+- Mobility
+- Collaboration
+- Security
+- Data Center
+- Professional development
+
+Participate in Cisco OpenProject with Smart Parking solution responsible for
+Git and Python part.
+
+Tune Informacijske Tehnologije
+Junior SQL Server DBA
+March 2014 - October 2014 (8 months)
+Croatia, Zagreb
+• Management and database administration 
+• Testing, installation, administration and improving the functionality of the
+components of 
+databases and application servers 
+• Work on projects planning, implementation and maintenance of continuous
+operations 
+• Creation of guidelines and procedures for the operation 
+
+Page 5 of 6
+
+ 
+
+ 
+
+ 
+
+• Creation of structures and objects in the database 
+• Planning hardware resources and defining configuration parameters of the
+operating system
+
+Education
+University College Algebra
+Professional master of computer engineering, System
+engineering · (2013 - 2016)
+
+Cisco Networking Academy
+
+Tehni?ko veleu?ilište u Zagrebu
+Bachelor of Engineering in IT Technologies  · (2010 - 2013)
+
+Technical School Ru?er Boškovi?, Zagreb
+ · (2002 - 2006)
+
+Page 6 of 6"$"JD_Database_Engineer.pdf
+9/8/2020
+
+Database Engineer
+
+Job ID: 1199716 | Amazon Dev Center India - Hyd
+
+Database Engineer - Job ID: 1199716 | Amazon.jobs
+
+DESCRIPTION
+
+Amazon.com was recently voted #5 most admired company in the US, #1 most innovative, and # 1 in
+Customer Service. Amazon’s technology business has a history and tradition of leading the world in
+Web-related technologies and services.
+
+Amazon.com’s AFT Team is currently looking for a Database Engineer position for its Hyderabad
+o?ce to design, develop and manage the persistence solutions that serve and support AFT needs.
+Database Engineer` will be part of the worldwide operations and responsible for designing,
+managing and maintaining highly complex, con?dential, mission critical and high availability
+databases in a dynamic and fast paced environment. This job involves design reviews for
+new/existing development transportation technologies applications, identify and architect right
+RDBMS database solutions like Oracle, PostgreSQL, MySQL, Big Data or No SQL based cloud
+computing and storage technologies, executing projects to deliver high quality deliverables on time,
+de?ning development processes for continuous improvement, driving the technology direction and
+leading the database engineering team e?ectively.
+
+BASIC QUALIFICATIONS
+
+· Bachelors in Computer Science or Engineering, or equivalent experience.
+· Minimum of 5+ years of experience as a DBA, Database Engineer, or similar role is required.
+· Broad and deep knowledge of atleast 2 relational databases including Oracle, PostgreSQL &
+MySQL.
+· Experience with non-relational database technologies as well.
+· Excellent problem-solving skills.
+· Familiarity with Amazon Web Services such as RDS, Redshift, DynamoDB, IAM, EC2, S3, CLI, SDK or
+equivalent cloud services.
+· Pro?ciency coding in UNIX shell and SQL, and at least one procedural language such as Python,
+Ruby, Java, Perl, C++.
+· Excellent speaking-listening-writing skills, attention to details, proactive self-starter.
+
+PREFERRED QUALIFICATIONS
+
+· 5+ years of experience managing and supporting large and complex mission-critical production
+databases.
+· Working knowledge of all phases of the software development life cycle, from initial requirements
+through operational support.
+· Experience working using Agile development a plus.
+· Experience in 24x7 on-call support for high-severity problem resolution.
+· Experience working directly with internal and/or external customers in database software
+development and support.
+· Experience in root cause analysis, remediation, and problem resolution for complex systems.
+· Working knowledge in database systems architecture, including networking, security, scaling, and
+fault-tolerance.
+· Working knowledge of database internals such as locking, wait events, consistency, logging,
+recovery.
+· Pro?ciency tuning databases for performance, availability and scalability.
+· Ability to deliver initiatives from conception through completion.
+
+https://www.amazon.jobs/en/jobs/1199716/database-engineer
+
+1/2
+
+9/8/2020
+
+Database Engineer - Job ID: 1199716 | Amazon.jobs
+
+JOIN US ON
+
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran
+/ Gender Identity / Sexual Orientation / Age.
+
+Privacy and
+
+Data
+
+Impressum Cookies
+
+© 1996-2020, Amazon.com, Inc. or its
+a?liates
+
+https://www.amazon.jobs/en/jobs/1199716/database-engineer
+
+2/2
+
+b
+d
+c
+j"$two
+2$"CV_Database_Engineer_2.pdf
+ 
+
+ 
+
+ 
+
+Contact
+
+www.linkedin.com/in/richard-
+munn-95749033 (LinkedIn)
+
+Richard Munn
+
+Senior Database Engineer at New Directions Technologies Inc.
+Port Hueneme
+
+Top Skills
+Databases
+Oracle
+Microsoft SQL Server
+
+Certifications
+CompTIA Security  ce
+
+Summary
+I have over thirty years of experience as a Team Leader, Project
+Leader, Systems Engineer, Database Engineer, Senior Analyst and
+Business Analyst with specific experience in:
+* Department of Defense Intelligence Community (IC)
+* Data Warehouse/Business Intelligence
+* Enterprise Resource Planning (ERP) Financials Systems
+I am an experienced Systems Engineer (SE).  My most recent SE
+role as a Lead SE for the Army National Ground Intelligence Center
+(NGIC) Identity Intelligence (I2) systems was to provide system
+engineering support of NGIC's I2 IT architecture, infrastructure, and
+internal/external interfaces.
+I have also provided SETA oversight on three major Biometrics
+programs for NGIC, ensuring delivery from functional requirements
+through development, testing and release.  Some of the specific
+responsibilities included ensuring all PWS requirements were met
+and providing project risk analysis and mitigation plans.
+I have served as a SE Line of Business (LOB) Technical Lead.  I
+acted as the prime contractor’s technical focal point to interface
+with the LOB Government Technical Lead (GTL), Application
+Development Organizations, and internal operational and
+engineering teams and program management.  I worked with the
+engineering teams and architecture to maintain the consistency of
+the IT infrastructure utilizing current technology standards.
+I am an experienced Database Engineer (DBE), serving as a
+Lead DBE for an NGIC Biometric program for over two years,
+and the Lead DBE on another NGIC program for two and half
+years, along with other database engineering experience.  I have
+served as a database architect in various capacities.  I have worked
+extensively with monitoring and optimizing applications and database
+performance, and am proficient with PL/SQL, T-SQL, SQL and
+UNIX.  I am also experienced with debugging and performance
+tuning at both the application and server level, and over twelve years
+of Oracle and over three years of SQL Server experience.
+
+Page 1 of 5
+
+ 
+
+ 
+
+ 
+
+Experience
+
+New Directions Technologies Inc.
+Senior Database Engineer
+October 2018 - Present (1 year 11 months)
+Port Hueneme CA
+I serve as the Database Lead in support of Navy Enterprise Resource
+Planning (ERP), Data Warehouse (DW) and Business Intelligence (BI)
+systems.  I develop BI and DW systems, to include dimensional modeling,
+schema design, Extract Transform and Load (ETL) processing using
+Microsoft SQL Server databases, SQL Server Integration Services (SSIS),
+and Reporting/OLAP analysis with both SQL Server subsystems and IBM
+Cognos BI tools.  I interface with SQL Server databases using TSQL and
+SQL.  I analyze corporate data and present the data using Microsoft Reporting
+Services and Analysis Services.  I create database components that include
+stored procedures, functions and scheduled jobs.  I evaluate impacts of
+upgrades to ERP system to ensure minimal risk to the organization.  I also
+serve as the internal point of contact and expert over the ERP systems,
+business systems and internal operating procedures.
+
+E&M Technologies, Inc.
+Senior Systems Engineer
+May 2018 - September 2018 (5 months)
+Charlottesville, Virginia Area
+Lead Systems Engineer.  I served as the Technical Team Lead for the
+Army National Ground Intelligence Center (NGIC) Identity Intelligence (I2)
+systems.  I provided system engineering support of NGIC's I2 IT architecture,
+infrastructure, and internal/external interfaces. This included maintaining
+comprehensive I2 data flows, ensuring integrity of data, facilitating support
+to NGIC’s Network Operations Center, facilitating software testing and
+deployments with the NGIC IT Directorate, maintaining software and document
+configuration control, documenting standard operating procedures, and
+ensuring all requirements are met.  I supervised four team members.
+
+Blackhawk Enterprise Incorporated
+Senior Database Engineer
+October 2015 - May 2018 (2 years 8 months)
+Charlottesville, Virginia Area
+
+Page 2 of 5
+
+ 
+
+ 
+
+ 
+
+Database Engineer.  I served as the Database Lead on the Combat
+Incident / Joint Trauma Analysis database for the Army National Ground
+Intelligence Center (NGIC).  Duties included database architecture (schema
+enhancements and expansion); maintaining Role Based Access (RBAC) using
+Oracle Virtual Private Database (VPD); data ingestion; developing procedures,
+triggers and views using PL/SQL and SQL; database tuning; and database
+deployment responsibility.  I lead the effort to upgrade the application database
+from Oracle 11g to Oracle 12c.  The position required working as a team with
+the front-end application developers within an Agile development environment,
+and frequent coordination with the Database Administrators (DBAs).
+
+General Dynamics Information Technology
+Principal Systems Engineer
+February 2014 - October 2015 (1 year 9 months)
+Warrenton, VA
+* Database Architect.  I was a Database Architect on the Medicare Medicaid
+Data Integration (MMDI) program, an initiative to support the implementation
+of State programs that integrate care for individuals enrolled in both Medicare
+and Medicaid.  I was responsible for evaluating customer's business and
+technology platforms and identifying opportunities to improve data integration
+efforts, as well as supporting the development of recommended technology
+solutions and assisting the states in data design.
+* Technical Lead.  As the Centers for Medicare and Medicaid Services
+(CMS) Health Care Quality Information Systems (HCQIS) program Line of
+Business (LOB) Technical Lead, I acted as the GDIT technical focal point to
+interface with the CMS LOB Government Technical Lead (GTL), Application
+Development Organizations, the Program Management Office, and internal
+operational and engineering teams and GDIT program management.  As a
+member of the Enterprise Architecture Team, I worked with the engineering
+teams and enterprise architects to maintain the consistency of the IT
+infrastructure utilizing current technology standards.
+
+CACI International Inc
+Database Engineer / Business Analyst
+November 2011 - February 2014 (2 years 4 months)
+Charlottesville, Virginia Area
+* Database Engineer.  I served as a Senior Database Engineer on the re-
+architecture of the Corporate IT database for the Army National Ground
+Intelligence Center (NGIC).  This required working with an NGIC Business
+
+Page 3 of 5
+
+ 
+
+ 
+
+ 
+
+Analyst to identify data usage, cleanse and eliminate redundant data, and
+restructure schemas for more efficient access.
+* Surge Task Lead / Business Analyst.  I served as the Task Lead for a surge
+effort to re-write the Corporate IT Systems for NGIC.  I was directly involved
+with the hiring process to build the team to eight members.  I oversaw the
+work effort of the team and acted as the primary point of contact between
+the customer and CACI.  I also performed business process analysis and re-
+engineering of existing systems, to include identifying associated functional
+requirements.
+* Biometrics Database Engineer.  I served as the Team Lead for the
+implementation of the Identity Intelligence Signatures Database (I2SDB),
+a Defense Intelligence Agency classified biometric identification system
+designed to provide timely identification responses to discreet customers
+and also support Intelligence Analysts in the creation of products resulting
+from Requests For Information (RFI).  I provided valuable engineering
+insight and years of biometrics systems technical experience to the resulting
+architecture and design of I2SDB.  I supervised two team members.
+
+Pragmatics, Inc.
+Senior Systems Engineer
+March 2009 - November 2010 (1 year 9 months)
+Charlottesville, Virginia Area
+I applied my engineering skills and experience to an oversight and
+technical assistance role with the Army National Ground Intelligence Center
+(NGIC) Biometrics Systems.  I was assigned as a Systems Engineer and
+Technical Assistance (SETA), quickly coming up to speed on both the SETA
+responsibilities and the supported biometrics programs.  I was assigned to the
+SETA Oversight Team for the AIMS, BIR and BASS programs, retaining single
+SETA responsibility for AIMS.  While an Oversight Team member, I was the
+Lead for SETA participation in Functional Quality Testing, and drafted Courses
+Of Action and Award Fee Plan briefing documents for the Government
+customer.  Appointed SETA Oversight Team Lead, I managed the Team
+while half staffed for the first four months as Lead.  Specific responsibilities
+included reviewing and providing recommendations on contractor schedules;
+providing project risk analysis and mitigation plans; ensuring effective
+communications between contractor project management, SETA and the
+Government customer; ensuring all PWS requirements were met; ensuring
+Government standards and processes were adhered to and coordinated;
+providing recommendations for project management improvements; providing
+review of project deliverables; acting as technical lead for pre-proposal,
+
+Page 4 of 5
+
+ 
+
+ 
+
+ 
+
+proposal, and existing program efforts; representing the organization as the
+prime customer contact on contracts or projects; and interacting with senior
+customer personnel on significant technical matters.  I supervised four team
+members.
+
+Booz Allen Hamilton
+Database Engineer
+December 2006 - March 2009 (2 years 4 months)
+Charlottesville, Virginia Area
+* Team Lead.  I served as the Booz Allen Team Lead and Supervisor on
+the Army National Ground Intelligence Center (NGIC) Biometric Intelligence
+Resource (BIR) system, providing financial reporting statements and monthly
+status reports to the prime.  I supervised three team members.
+* Oracle Database Engineer.  I was a lead Oracle Database Engineer
+on BIR, an Agile development environment, for the Version 1 delivery.  I
+was instrumental in stabilizing the Oracle code base, and rewrote code to
+improve efficiency and integrity of the data.  I was also key to the successful
+deployment of the Change Data Capture feature.  I was the Lead for the
+implementation of the Automated Biometric Identification System (ABIS), a
+new data source for BIR, in Version 1 and Version 2.  I was involved with
+the design and implementation of various Version 2 functionality, such as
+Identity Linking, US Person Processing, Data Scrubbing, Data Indexing and
+Oracle Label Security (OLS).  I enhanced Oracle PL/SQL code to improve
+performance and increase functionality.
+
+Education
+Southern New Hampshire University
+Bachelor of Science (BS), Management Information Systems,
+General · (1986 - 1990)
+
+Villanova University
+Masters Certificate, Business Analysis · (2006 - 2006)
+
+Community College of the Air Force
+Associate of Science in Data Processing, Computers · (1984 - 1986)
+
+Page 5 of 5"$"JD_Database_Engineer.pdf
+9/8/2020
+
+Database Engineer
+
+Job ID: 1199716 | Amazon Dev Center India - Hyd
+
+Database Engineer - Job ID: 1199716 | Amazon.jobs
+
+DESCRIPTION
+
+Amazon.com was recently voted #5 most admired company in the US, #1 most innovative, and # 1 in
+Customer Service. Amazon’s technology business has a history and tradition of leading the world in
+Web-related technologies and services.
+
+Amazon.com’s AFT Team is currently looking for a Database Engineer position for its Hyderabad
+o?ce to design, develop and manage the persistence solutions that serve and support AFT needs.
+Database Engineer` will be part of the worldwide operations and responsible for designing,
+managing and maintaining highly complex, con?dential, mission critical and high availability
+databases in a dynamic and fast paced environment. This job involves design reviews for
+new/existing development transportation technologies applications, identify and architect right
+RDBMS database solutions like Oracle, PostgreSQL, MySQL, Big Data or No SQL based cloud
+computing and storage technologies, executing projects to deliver high quality deliverables on time,
+de?ning development processes for continuous improvement, driving the technology direction and
+leading the database engineering team e?ectively.
+
+BASIC QUALIFICATIONS
+
+· Bachelors in Computer Science or Engineering, or equivalent experience.
+· Minimum of 5+ years of experience as a DBA, Database Engineer, or similar role is required.
+· Broad and deep knowledge of atleast 2 relational databases including Oracle, PostgreSQL &
+MySQL.
+· Experience with non-relational database technologies as well.
+· Excellent problem-solving skills.
+· Familiarity with Amazon Web Services such as RDS, Redshift, DynamoDB, IAM, EC2, S3, CLI, SDK or
+equivalent cloud services.
+· Pro?ciency coding in UNIX shell and SQL, and at least one procedural language such as Python,
+Ruby, Java, Perl, C++.
+· Excellent speaking-listening-writing skills, attention to details, proactive self-starter.
+
+PREFERRED QUALIFICATIONS
+
+· 5+ years of experience managing and supporting large and complex mission-critical production
+databases.
+· Working knowledge of all phases of the software development life cycle, from initial requirements
+through operational support.
+· Experience working using Agile development a plus.
+· Experience in 24x7 on-call support for high-severity problem resolution.
+· Experience working directly with internal and/or external customers in database software
+development and support.
+· Experience in root cause analysis, remediation, and problem resolution for complex systems.
+· Working knowledge in database systems architecture, including networking, security, scaling, and
+fault-tolerance.
+· Working knowledge of database internals such as locking, wait events, consistency, logging,
+recovery.
+· Pro?ciency tuning databases for performance, availability and scalability.
+· Ability to deliver initiatives from conception through completion.
+
+https://www.amazon.jobs/en/jobs/1199716/database-engineer
+
+1/2
+
+9/8/2020
+
+Database Engineer - Job ID: 1199716 | Amazon.jobs
+
+JOIN US ON
+
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran
+/ Gender Identity / Sexual Orientation / Age.
+
+Privacy and
+
+Data
+
+Impressum Cookies
+
+© 1996-2020, Amazon.com, Inc. or its
+a?liates
+
+https://www.amazon.jobs/en/jobs/1199716/database-engineer
+
+2/2
+
+b
+d
+c
+j"$one
+3$"CV_Database_Engineer_3.pdf
+ 
+
+ 
+
+ 
+
+Contact
+
+www.linkedin.com/in/richclark1
+(LinkedIn)
+
+Richard Clark
+
+Database Engineer at Suited Connector
+Denver Metropolitan Area
+
+Top Skills
+Databases
+Sales Management
+Training
+
+Languages
+English
+
+Summary
+Data Engineer offering a strong background in IT combined with real
+world business experience and knowledge. 
+
+• Consistently recognized for technical troubleshooting skills; able to
+quickly identify solutions and resolve challenging technical issues.
+
+Certifications
+Talend 6.3 DI Basics
+Automotive Service Excellence
+
+• Effective communication and organization skills with focus on
+quality and accuracy; proven ability to handle multiple tasks and
+prioritize accordingly. As well as being adept at moving quickly and
+effectively between projects. 
+
+• Ability to quickly learn and implement new technologies; proficient
+in a range of computer systems, languages, tools, and testing
+methodologies.
+
+Experience
+
+Suited Connector
+Database Engineer
+March 2019 - Present (1 year 6 months)
+Englewood, Colorado
+As a SQL Server Database Engineer on a fast paced quickly growing team. I
+am tasked with multiple responsibilities. 
+• Creating stored procedures for new and existing processes 
+• Creating new functions to improve performance and processing 
+• Creating and improving on database indexes 
+• Standardizing database table structures and naming conventions
+• Code deployments via SSMS and RedGate 
+• Code reviews
+• Assist in leading sprint planning and closing for Agile team
+• Data synchronization between environments (Development, Production,
+Processing, and Data Warehouse)
+• ETL solutions via SSIS 
+
+Page 1 of 5
+
+ 
+
+ 
+
+ 
+
+-Keeping environments in sync for reporting hourly 
+-Solutions to move all production data to the data warehouse 
+-Packages to pull down SFTP data on a weekly or daily basis. Transform and
+load into the database 
+-Database monitoring and dashboard tool
+• Developed notification process through SSIS, utilizing AWS SNS and AWS
+CLI to alert on any job error or failure. 
+• Standing up new AWS RDS instances and moving existing instances to new
+zones 
+• Database permissions 
+• Working with AWS RDS Mirroring and fail over process
+• Data cleansing using internal processes as well as 3rd party processes
+(Email Oversight, Impression Wise)
+• Built solutions to process and deliver SMS and Email contacts to external
+Email Service platforms (Ongage, Bronto)
+• On call support rotation, Troubleshooting and fixing code and database
+alarms for crucial business systems 
+
+Kaiser Permanente
+Associate IT Engineer Applications
+June 2017 - March 2019 (1 year 10 months)
+Colorado
+As an IT engineer I am responsible for all database support as well as ETL
+support and development. I work closely with the business stakeholders to fully
+understand the needs of the business and help implement those needs into
+our work. 
+
+• Completion of DML and DDL requests
+• Merge and copy large amounts of data to newly built environments
+• QA testing for database applications
+• Service tickets via Service-Now
+• Supported and updated one of the largest ETL jobs within the organization 
+• ETL development via Talend
+• Developed a large automated ETL job resulting in saving the organization
+millions by allowing nurses to not have to manually make phone calls about lab
+results
+•  Data modeling and changes 
+• Responsible for production deployments and QA of the deployments for both
+ETL jobs and Database changes
+• Stored procedure comparison and code quality checking
+
+Page 2 of 5
+
+ 
+
+ 
+
+ 
+
+• Encryption and decryption of large datasets containing PHI
+
+Healthgrades
+1 year 9 months
+Data Operations Engineer
+June 2016 - June 2017 (1 year 1 month)
+Greater Denver Area
+As a data operations engineer I have continued all of my duties of my previous
+position while undertaking responsibility for ingestion and processing of all
+of the state data as well as government Medicare data. This data makes
+up over 40% of the total revenue for Healthgrades. In addition to these new
+responsibilities, I am training new members of our team on the business
+logic behind our ratings and awards process. I am also constantly taking on
+new projects to improve and learn new technical skills while still maintaining
+deliverables.    
+
+• Working with a high paced agile team to implement and problem-solve fast
+• Responsible for developing  new solutions for outdated data processes
+• Built SSIS packages for data ingestion and transformation 
+• Developed new architecture for state data processing, assisting in AWS
+migration
+• Migrated old processes to new environments including tables, stored
+procedures, views and SQL jobs
+• Created nightly SQL jobs to refresh report driven tables
+• Assisting in data mart creation and ETL (3NF)
+•  Assisted in developing database partitioning and new file group structure 
+• Responsible for running SQL scripts, stored procedures, and jobs to generate
+Ratings and awards for front end website
+• Performed peer reviews of code as well as QA of data processing 
+• Created documentation for all newly developed items as well as updated
+existing documentation
+• Understanding the data analytics involved in our hospital ratings allowing
+quick problem solving skills
+
+Associate Database Developer
+October 2015 - May 2016 (8 months)
+Greater Denver Area
+As an associate database developer, I was responsible for ingesting and
+processing client facility data. This data is part of one of the company’s largest
+revenue generating products and is submitted by over 40 facilities quarterly.
+
+Page 3 of 5
+
+ 
+
+ 
+
+ 
+
+I was responsible for implementing and building a historical solution for client
+data, reducing reprocessing time by over 50%. 
+
+• Processing data from multiple flat file formats
+• Data transformation to meet business methodology including applying
+crosswalks and standardizing formats
+• Responsible for any troubleshooting during processing via SSMS and
+Microsoft Work Flow
+• Internal communication with consultants and analysts about client data and
+status 
+• C# dashboard updating
+• QA of stored procedures used in business logic rule applications to the client
+data
+• ETL development and execution via SSIS for data warehouse archiving  
+• Cube processing and development (dimensional model), Cube query via
+SSMS and Excel
+• Developed excel reports via SQL views to refresh on data updates 
+• External communication with facility IT teams for corrected data extracts and
+FTP assistance via Filezilla
+• Responsible for implementing and maintaining best practices
+• Achieved and maintained HIPAA compliance 
+• Development of stored procedures to improve and correct client data extracts
+
+Nissan North America
+Lead Parts Consultant
+September 2009 - October 2015 (6 years 2 months)
+Lead Parts Consultant 
+
+• Responsible for all new employee training and mentoring
+• Processed all purchases for the department and inventory using PO
+software 
+• Conducting all necessary accounting duties to balance department finances 
+• Responsible for generation of B2B & B2C sales
+• Developed pricing structures for external wholesale customers 
+• Designed and implemented department reference and application sheets via
+windows office
+• Provided end user support as well as solutions for company-wide systems
+problems
+• Recipient of multiple awards for perfect attendance and customer
+satisfaction 
+
+Page 4 of 5
+
+ 
+
+ 
+
+ 
+
+• Mastered workplace software systems including; Automate, AS400, Modis,
+and Star parts
+
+Genuine Parts Company
+Parts Counter Sales
+January 2005 - September 2009 (4 years 9 months)
+Lead Counter Sales
+
+• Responsible for generating and maintaining revenue through B2C and B2B
+Sales
+• Effectively operated multi-line telephone systems to conduct sales and
+consult customers
+• Assisting in monthly inventory control management and yearly reconciliation 
+• Responsible for training new employees in multiple positions 
+• Aiding in supervision of work schedules and delivery routes
+• Developed processes for more efficient and effective routes for delivery
+drivers as well as counter processes
+• Obtained Automotive Service Excellence (ASE) training and certificates 
+• OSHA and forklift certified
+
+Education
+Metropolitan State College of Denver
+Bachelor’s Degree, Computer Information Systems · (2010 - 2015)
+
+Red Rocks Community College
+General studies, CIS · (2006 - 2007)
+
+Page 5 of 5
+
+"$"JD_Database_Engineer.pdf
+9/8/2020
+
+Database Engineer
+
+Job ID: 1199716 | Amazon Dev Center India - Hyd
+
+Database Engineer - Job ID: 1199716 | Amazon.jobs
+
+DESCRIPTION
+
+Amazon.com was recently voted #5 most admired company in the US, #1 most innovative, and # 1 in
+Customer Service. Amazon’s technology business has a history and tradition of leading the world in
+Web-related technologies and services.
+
+Amazon.com’s AFT Team is currently looking for a Database Engineer position for its Hyderabad
+o?ce to design, develop and manage the persistence solutions that serve and support AFT needs.
+Database Engineer` will be part of the worldwide operations and responsible for designing,
+managing and maintaining highly complex, con?dential, mission critical and high availability
+databases in a dynamic and fast paced environment. This job involves design reviews for
+new/existing development transportation technologies applications, identify and architect right
+RDBMS database solutions like Oracle, PostgreSQL, MySQL, Big Data or No SQL based cloud
+computing and storage technologies, executing projects to deliver high quality deliverables on time,
+de?ning development processes for continuous improvement, driving the technology direction and
+leading the database engineering team e?ectively.
+
+BASIC QUALIFICATIONS
+
+· Bachelors in Computer Science or Engineering, or equivalent experience.
+· Minimum of 5+ years of experience as a DBA, Database Engineer, or similar role is required.
+· Broad and deep knowledge of atleast 2 relational databases including Oracle, PostgreSQL &
+MySQL.
+· Experience with non-relational database technologies as well.
+· Excellent problem-solving skills.
+· Familiarity with Amazon Web Services such as RDS, Redshift, DynamoDB, IAM, EC2, S3, CLI, SDK or
+equivalent cloud services.
+· Pro?ciency coding in UNIX shell and SQL, and at least one procedural language such as Python,
+Ruby, Java, Perl, C++.
+· Excellent speaking-listening-writing skills, attention to details, proactive self-starter.
+
+PREFERRED QUALIFICATIONS
+
+· 5+ years of experience managing and supporting large and complex mission-critical production
+databases.
+· Working knowledge of all phases of the software development life cycle, from initial requirements
+through operational support.
+· Experience working using Agile development a plus.
+· Experience in 24x7 on-call support for high-severity problem resolution.
+· Experience working directly with internal and/or external customers in database software
+development and support.
+· Experience in root cause analysis, remediation, and problem resolution for complex systems.
+· Working knowledge in database systems architecture, including networking, security, scaling, and
+fault-tolerance.
+· Working knowledge of database internals such as locking, wait events, consistency, logging,
+recovery.
+· Pro?ciency tuning databases for performance, availability and scalability.
+· Ability to deliver initiatives from conception through completion.
+
+https://www.amazon.jobs/en/jobs/1199716/database-engineer
+
+1/2
+
+9/8/2020
+
+Database Engineer - Job ID: 1199716 | Amazon.jobs
+
+JOIN US ON
+
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran
+/ Gender Identity / Sexual Orientation / Age.
+
+Privacy and
+
+Data
+
+Impressum Cookies
+
+© 1996-2020, Amazon.com, Inc. or its
+a?liates
+
+https://www.amazon.jobs/en/jobs/1199716/database-engineer
+
+2/2
+
+b
+d
+c
+j"$one

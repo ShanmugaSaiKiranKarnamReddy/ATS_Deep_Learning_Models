@@ -1,0 +1,104 @@
+@import '../../stylesheets/global'; 
+
+
+.upload-bar-main {
+
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+
+  .process-button-container{
+    height: 100%;
+    .MuiButtonBase-root{
+      text-transform: capitalize;
+    }
+    .process-button-inactive{
+      border-radius: 0;
+      height: 100%;
+      color: gray;
+    }
+    .process-button-active{
+      border-radius: 0;
+      height: 100%;
+      background: $standard-orange;
+      color: #fff;
+    }
+  }
+
+  .drop-zone-main{
+    min-height: 0 !important;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    outline-color: $standard-orange;
+
+    .MuiDropzoneArea-textContainer{
+
+      .MuiTypography-root{
+        margin: 0;
+        font-size: 14px;
+        font-weight: 500;
+        padding: 6px 16px;
+        width: 250px;
+        padding: 6px;
+        color: gray;
+      }
+      svg{
+        display: none;
+      }
+
+    }
+  }
+
+  .upload-bar-input{
+
+    .MuiInputBase-root{
+
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+      border-right: none;
+      outline: none;
+      color: red;
+      outline: none;
+
+        
+      
+
+      &:hover{
+        color: red;
+        outline: none;
+
+      }
+
+
+    }
+
+
+  }
+
+  .upload-bar-button{
+
+
+    .MuiButtonBase-root{
+
+      height: 56px;
+      background: $standard-orange;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+      box-shadow: none;
+
+      .MuiButton-label{
+
+        text-transform: capitalize;
+
+      }  
+
+    }
+  }
+
+
+
+}

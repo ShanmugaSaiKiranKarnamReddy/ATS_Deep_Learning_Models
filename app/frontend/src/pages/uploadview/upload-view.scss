@@ -1,0 +1,22 @@
+@import '../../stylesheets/global'; 
+
+
+.upload-view-container{
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  .bar-container{
+    margin-top: 35vh;
+  }
+
+  .status-container{
+    margin-top: 20px;
+    .status{
+      //text-align: left;
+      .title{
+        font-weight: 600;
+      }
+    }
+  }
+}

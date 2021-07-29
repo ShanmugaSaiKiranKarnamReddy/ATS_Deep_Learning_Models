@@ -1,0 +1,16 @@
+@import '../../stylesheets/global'; 
+
+
+.stepper-bar-container{
+  // margin: 24px;
+  // margin-top: 0;
+
+  .custom-stepper{
+    .MuiStepIcon-root.MuiStepIcon-completed{
+      color: $standard-orange;
+    }
+    .MuiStepIcon-root.MuiStepIcon-active{
+      color: $standard-orange;
+    }
+  }
+}

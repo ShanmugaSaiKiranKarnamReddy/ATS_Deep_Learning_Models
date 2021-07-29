@@ -1,0 +1,88 @@
+@import './stylesheets/global'; 
+
+
+.Main{
+  .body{
+    .user-profile-header{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        align-items: center;
+        margin-right: 38px;
+        margin-top: 10px;
+        svg{
+          margin-right: 5px;
+        }
+    }
+
+    .upload-bar-main {
+
+      display: flex;
+      height: 50px;
+      justify-content: center;
+      align-items: center;
+      .process-button-container{
+        height: 100%;
+        .MuiButtonBase-root{
+          text-transform: capitalize;
+        }
+        .process-button-inactive{
+          border-radius: 0;
+          height: 100%;
+          color: gray;
+        }
+        .process-button-active{
+          border-radius: 0;
+          height: 100%;
+          background: $standard-orange;
+          color: #fff;
+        }
+      }
+      
+    }
+
+    .MuiFormControl-root{
+      .MuiInput-underline:hover:not(.Mui-disabled):before{
+        border-bottom: 2px solid $standard-orange;
+      }
+      .MuiInput-underline:after{
+        border-bottom: 4px solid $standard-orange;
+      }
+      .MuiFormLabel-root.Mui-focused{
+        color: $standard-orange;
+      }
+    }
+
+    
+  }
+  
+}
+
+
+
+.login{
+  width: 300px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding: 40px;
+  margin-top: 150px;
+  .MuiFormGroup-root{
+    width: 320px;
+  }
+  .MuiFormControl-root{
+    margin-bottom: 20px;
+  }
+  .MuiButton-root{
+    background-color: $standard-orange;
+    color: #fff;
+    font-weight: bold;
+  }
+
+}
+
+.route{
+  height: 100%;
+}

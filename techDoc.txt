@@ -1,0 +1,59 @@
+Go to app2.0/backend
+Run index.py
+
+(Registering to app is explicitly done by a admin, I have created a user for you)
+[POST]/auth:returns a token
+
+{
+  "email": "asish@srh.com",
+  "password": "password"
+}
+
+[GET]/start:returns a session id
+@token_required
+
+Session flow:
+
+[POST]/uploadJD
+@token_required
+form-data:
+file: jd_files.pdf
+session_id: “b5559832-e294-4e8d-be50-f7076510a2d7”[example]
+
+[POST]/uploadCV
+@token_required
+form-data:
+file: cv_files1.pdf
+file: cv_files1.pdf
+file: cv_files1.pdf
+file: cv_files1.pdf
+session_id: “b5559832-e294-4e8d-be50-f7076510a2d7”
+
+By now a session is created and text has been extracted and parsed and stored. All model is on play to find the result
+
+[GET]/result-tfidf: returns the ranking of resume based on tfidf model
+@token_required
+Headers:
+session_id: “b5559832-e294-4e8d-be50-f7076510a2d7”
+
+
+[GET]/result-keyword_matching: returns the ranking of resume based on keyword matching model
+@token_required
+Headers:
+session_id: “b5559832-e294-4e8d-be50-f7076510a2d7”
+
+
+Outside the Session flow:
+
+[GET]/all-parsed-jd: Get all the parsed jd data in our database
+@token_required
+
+[GET]/all-parsed-cv: Get all the parsed cv data in our database
+@token_required
+
+[GET]/all-jd-corpuses: Get all the jd corpuses in our database
+@token_required
+
+[GET]/all-cv-corpuses: Get all the cv corpuses in our database
+@token_required
+ 
