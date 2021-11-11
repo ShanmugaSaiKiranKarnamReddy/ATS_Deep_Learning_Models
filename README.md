@@ -1,5 +1,4 @@
-# case-study-1-october2019-case-study-group-2
-case-study-1-october2019-case-study-group-2 created by GitHub Classroom
+# Appication Ranking System Using Neural Networks
 Neural Network Resume Ranking System
 Ranks resume in three methods: Text matching using TF-IDF, Keyword matching using predefined list of words, RNN and Ma-LSTM. All programs and models except TF-IDF are inclined towards resumes and job postings under the domain of Computer science.
 Workflow:
